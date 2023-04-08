@@ -1,0 +1,75 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+h1{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+table {
+  border-collapse: collapse;
+  margin: 50px auto;
+}
+td {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 14px;
+}
+.group1 {
+  background-color: #f3c7c2;
+}
+.group2 {
+  background-color: #ffe4b5;
+}
+.group3 {
+  background-color: #bdecb6;
+}
+.group4 {
+  background-color: #b5d5ff;
+}
+.group5 {
+  background-color: #e5d1f5;
+}
+.group6 {
+  background-color: #f7d6e6;
+}
+.group7 {
+  background-color: #d3d3d3;
+}
+.group8 {
+  background-color: #c5e1a5;
+}
+.group9 {
+  background-color: #c6e2ff;
+}
+.group10 {
+  background-color: #f8bbd0;
+}
+.group11 {
+  background-color: #f6e58d;
+}
+.group12 {
+  background-color: #f2f2f2;
+}
+.group13 {
+  background-color: #d1e8e2;
+}
+.group14 {
+  background-color: #e8c4cc;
+}
+.group15 {
+  background-color: #ffe0b2;
+}
+.group16 {
+  background-color: #c1c1c1;
+}
+.group17 {
+  background-color: #a7c4bc;
+}
+.group18 {
+  background-color: #f2f2f2;
+}
